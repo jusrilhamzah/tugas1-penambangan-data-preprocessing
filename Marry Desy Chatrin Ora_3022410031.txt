@@ -1,0 +1,105 @@
+==============================================================================
+DESKRIPSI KASUS DAN DATASET
+Tugas 1 - Data Preprocessing
+==============================================================================
+Pembuat Kasus : Marry Desy Chatrin Ora
+NIM           : 3022410031
+Topik         : Analisis Transaksi dan Kinerja Pelayanan Kafe "Kopi Nusantara"
+                (3 Outlet di Surabaya) Periode 1 Januari - 28 Februari 2026
+Catatan       : Data bersifat fiktif (dibuat dengan bantuan AI) untuk
+                keperluan pembelajaran.
+
+------------------------------------------------------------------------------
+A. LATAR BELAKANG KASUS
+------------------------------------------------------------------------------
+Kopi Nusantara adalah kafe dengan 3 outlet di Surabaya (Pusat, Timur, Barat).
+Manajemen ingin mengevaluasi penjualan, perilaku pelanggan, dan kecepatan
+pelayanan selama dua bulan terakhir. Data dicatat dari sistem kasir, formulir
+keanggotaan, dan pencatatan waktu pelayanan oleh kasir, sehingga ditemukan
+banyak masalah kualitas data akibat input manual dan perbedaan format antar
+outlet. Sebelum dianalisis (mis. prediksi pendapatan atau pengelompokan
+pelanggan), data harus melalui tahap Data Preprocessing.
+
+------------------------------------------------------------------------------
+B. DAFTAR FILE DATASET (8 FILE CSV)
+------------------------------------------------------------------------------
+1. dataset_awal.csv          : Data utama transaksi pelanggan (248 baris,
+                                12 variabel).
+2. data_pelanggan.csv        : Profil pelanggan/anggota (125 baris,
+                                10 variabel).
+3. transaksi_januari.csv     : Data transaksi bulan Januari 2026 (124 baris,
+                                12 variabel), pecahan dari dataset_awal.
+4. transaksi_februari.csv    : Data transaksi bulan Februari 2026 (124 baris,
+                                12 variabel), pecahan dari dataset_awal.
+5. transaksi_harian.csv      : Rekap harian per outlet (181 baris,
+                                11 variabel).
+6. transaksi_mingguan.csv    : Rekap mingguan per outlet (27 baris,
+                                13 variabel).
+7. pelayanan_detik.csv       : Waktu pelayanan dalam satuan DETIK (124 baris,
+                                10 variabel).
+8. pelayanan_menit.csv       : Waktu pelayanan dalam satuan MENIT (124 baris,
+                                10 variabel).
+
+Dataset utama yang dipakai untuk memenuhi syarat minimal 100 data dan 8
+variabel adalah dataset_awal.csv. File lain adalah data pendukung/pecahan
+yang saling berhubungan melalui id_transaksi, id_pelanggan, tanggal, dan outlet.
+
+------------------------------------------------------------------------------
+C. KAMUS VARIABEL
+------------------------------------------------------------------------------
+[1] dataset_awal.csv / transaksi_januari.csv / transaksi_februari.csv
+- id_transaksi          (kategorik/ID) : kode unik transaksi, mis. TRX-0001
+- id_pelanggan          (kategorik/ID) : kode pelanggan, mis. CUST-001
+- tanggal_transaksi     (tanggal)      : tanggal transaksi
+- outlet                (kategorik)    : Surabaya Pusat / Timur / Barat
+- jenis_kelamin         (kategorik)    : Laki-laki / Perempuan
+- usia                  (numerik)      : usia pelanggan (tahun)
+- kategori_menu         (kategorik)    : Kopi, Non-Kopi, Makanan Berat, Camilan
+- jumlah_item           (numerik)      : jumlah item yang dibeli
+- total_harga           (numerik)      : total pembayaran (Rupiah)
+- metode_pembayaran     (kategorik)    : Tunai, QRIS, Kartu Debit, E-Wallet
+- durasi_layanan_menit  (numerik)      : lama pelayanan (menit)
+- rating_kepuasan       (numerik/ordinal): skala 1 (buruk) sampai 5 (sangat baik)
+
+[2] data_pelanggan.csv
+- id_pelanggan, nama_pelanggan (teks), jenis_kelamin (kategorik),
+  usia (numerik), kota (kategorik), status_member (kategorik/ordinal:
+  Reguler < Silver < Gold < Platinum), tanggal_bergabung (tanggal),
+  frekuensi_kunjungan_bulan (numerik), rata_rata_belanja (numerik, Rupiah),
+  preferensi_menu (kategorik)
+
+[3] transaksi_harian.csv
+- tanggal, hari, outlet, cuaca (Cerah/Berawan/Hujan), jumlah_transaksi,
+  total_item_terjual, total_pendapatan (Rupiah), rata_rata_belanja (Rupiah),
+  rata_rata_rating, rata_rata_durasi_menit, kategori_terlaris
+
+[4] transaksi_mingguan.csv
+- minggu_ke, tanggal_mulai, tanggal_akhir, outlet, jumlah_hari,
+  total_transaksi, total_item_terjual, total_pendapatan, rata_rata_belanja,
+  rata_rata_rating, rata_rata_durasi_menit, kategori_terlaris,
+  tren_pendapatan (Naik/Turun/Stabil dibanding minggu sebelumnya)
+
+[5] pelayanan_detik.csv dan pelayanan_menit.csv
+- id_transaksi, tanggal, outlet, nama_kasir, jenis_pesanan
+  (Dine-in/Takeaway/Delivery), waktu_antri, waktu_penyajian,
+  waktu_pembayaran, total_waktu_layanan (satuan detik atau menit sesuai
+  nama file), status_layanan (Cepat/Normal/Lambat)
+
+------------------------------------------------------------------------------
+D. TUGAS UNTUK PARTNER
+------------------------------------------------------------------------------
+Lakukan Data Preprocessing pada seluruh dataset, lalu jelaskan setiap tahapan
+dengan format INPUT - PROSES - OUTPUT. Identifikasi sendiri masalah data
+yang ada, lalu tangani dengan teknik yang sesuai, antara lain:
+1. Data cleaning: missing value (kategorik dan numerik; gunakan minimal
+   statistik deskriptif seperti mean/median/modus), data duplikat, noise,
+   outlier, dan nilai yang tidak valid/tidak logis.
+2. Konsistensi data: penulisan kategori, format tanggal, format angka,
+   tipe data, dan perbedaan satuan antar file.
+3. Data integration: penggabungan file yang saling berhubungan.
+4. Data transformation: normalisasi/standardisasi, encoding variabel
+   kategorik, dan diskretisasi bila diperlukan.
+5. Data reduction: pemilihan atribut/fitur yang relevan.
+Seluruh hasil (laporan PDF, file .ipynb, deskripsi kasus .txt, dan dataset
+.csv) dikumpulkan dalam satu folder repository GitHub.
+==============================================================================
