@@ -1,0 +1,28 @@
+﻿minggu_ke,tanggal_mulai,tanggal_akhir,outlet,jumlah_hari,total_transaksi,total_item_terjual,total_pendapatan,rata_rata_belanja,rata_rata_rating,rata_rata_durasi_menit,kategori_terlaris,tren_pendapatan
+1,2026-01-01,2026-01-04,Surabaya Barat,4,236,511,8361800,35400,4.46,8.3,Kopi,Stabil
+1,2026-01-01,2026-01-04,Surabaya Pusat,4,372,737,12674500,34100,4.22,8.6,Kopi,Stabil
+1,2026-01-01,2026-01-04,Surabaya Timur,4,252,577,8681000,,,7.6,Kopi,Stabil
+2,2026-01-05,2026-01-11,Surabaya Barat,7,415,901,14893300,35900,4.43,8.0,non-kopi,Naik
+2,2026-01-05,2026-01-11,Surabaya Pusat,7,532,1154,18536800,34800,4.33,8.0,Kopi,Naik
+2,2026-01-05,2026-01-11,Surabaya Timur,7,474,1026,15520400,32700,4.28,8.0,Kopi,Naik
+3,2026-01-12,2026-01-18,SBY Barat,7,360,784,12863400,35700,4.42,,Kopi,Turun
+3,2026-01-12,2026-01-18,Surabaya Pusat,7,522,1066,17815800,34100,8.2,7.8,kopi,Turun
+3,2026-01-12,2026-01-18,Surabaya Timur,7,453,1044,98000000,35700,4.37,8.6,Kopi,
+4,2026-01-19,2026-01-25,Surabaya Barat,7,366,759,,35000,4.32,8.2,Kopi,Stabil
+4,2026-01-19,2026-01-25,Surabaya Pusat,7,516,1236,18494200,35800,4.48,7.7,,
+4,2026-01-19,2026-01-25,Surabaya Timur,7,386,827,13204200,34200,4.38,7.3,Kopi,Turun
+5,2026-01-26,2026-02-01,,7,357,816,12320200,34500,4.33,8.3,Makanan berat,Turun
+5,2026-01-26,2026-02-01,Surabaya Pusat,7,542,1172,17992400,33200,4.29,8.5,Kopi,Stabil
+5,2026-01-26,2026-02-01,Surabaya Timur,7,,986,,,4.22,8.1,Kopi,Naik
+6,2026-02-02,2026-02-08,Surabaya Barat,7,421,896,14435500,34300,,8.6,Kopi,Naik
+6,2026-02-02,2026-02-08,Surabaya Pusat,7,576,1188,19875000,34500,4.19,7.6,Kopi,Naik
+6,2026-02-02,2026-02-08,Surabaya Timur,7,,1155,17291400,35100,4.28,8.2,Non-Kopi,Naik
+7,2026-02-09,2026-02-15,Surabaya Barat,7,364,754,,34800,4.38,7.5,Kopi,Turun
+7,2026-02-09,2026-02-15,Surabaya Pusat,7,569,1383,19951300,35100,4.29,8.1,Camilan,Stabil
+7,2026-02-09,2026-02-15,Surabaya Timur,7,471,,16812100,35700,4.37,8.6,Kopi,Stabil
+8,2026-02-16,2026-02-22,Surabaya Barat ,7,311,649,11102100,35700,4.41,7.4,kopi,Turun
+8,2026-02-16,2026-02-22,Surabaya Pusat,7,534,,20214500,37900,4.31,,Kopi,Stabil
+8,2026-02-16,2026-02-22,Surabaya Timur,7,388,855,13814800,35600,4.4,7.8,Kopi,Turun
+9,2026-02-23,2026-02-28,Surabaya Barat,6,331,711,11201200,33800,4.39,7.0,Kopi,Stabil
+9,2026-02-23,2026-02-28,Surabaya Pusat,6,437,898,-1500000,35400,4.36,8.5,,Turun
+9,2026-02-23,2026-02-28,Surabaya Timur,6,396,878,14078100,35600,4.3,7.1,Kopi,Stabil

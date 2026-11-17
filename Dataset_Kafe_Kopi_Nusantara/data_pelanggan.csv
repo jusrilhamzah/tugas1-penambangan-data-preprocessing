@@ -1,0 +1,126 @@
+﻿id_pelanggan,nama_pelanggan,jenis_kelamin,usia,kota,status_member,tanggal_bergabung,frekuensi_kunjungan_bulan,rata_rata_belanja,preferensi_menu
+CUST-001,Rizky Wijaya,Laki-laki,23.0,Gresik,Reguler,2023-03-30,2.0,30000.0,
+CUST-002,Tono Lestari,Laki-laki,20.0,Sidoarjo,,2023-03-09,85.0,34000.0,Kopi
+CUST-003,Hendra Rahma,Laki-laki,25.0,,Silver,24/02/2024,3.0,21000.0,Kopi
+CUST-004,Andi Maharani,Laki-laki,,Malang,Reguler,2024-02-11,6.0,21000.0,
+CUST-005,Mega Saputra,Perempuan,19.0,Sidoarjo,Reguler,2024-03-20,3.0,47000.0,Camilan
+CUST-006,Budi Ananda,Laki-laki,20.0,Surabaya,Reguler,2023-10-30,2.0,33000.0,Camilan
+CUST-007,Citra Wibowo,Laki-laki,25.0,Surabya,Reguler,2024-03-23,3.0,48000.0,Non-Kopi
+CUST-008,Rani Saputra,Perempuan,16.0,Surabya,Silver,2024-03-24,1.0,32000.0,Camilan
+CUST-009,Indah Saputra,Laki-laki,,Surabya,Silver,2025-09-13,4.0,,Makanan Berat
+CUST-010,Rani Wijaya,Laki-laki,,Gresik,Reguler,2023-12-28,8.0,30000.0,Makanan Berat
+CUST-011,Fitri Lestari,Laki-laki,20.0,Surabaya,Gold,2025-02-06,,18000.0,Kopi
+CUST-012,Joko Firmansyah,Perempuan,24.0,Surabaya,Gold,08/02/2024,,23000.0,Kopi
+CUST-013,Gita Maharani,P,16.0,Surabaya,Reguler,2023-04-10,4.0,12000.0,Kopi
+CUST-014,Dewi Ananda,Perempuan,16.0,mojokerto,Reguler,2024-02-02,11.0,50000.0,Non-Kopi
+CUST-015,Fitri Wibowo,wanita,25.0,Mojokerto,Reguler,2023-04-29,2.0,29000.0,Camilan
+CUST-016,Nadia Saputra,wanita,16.0,mojokerto,,19/03/2023,6.0,14000.0,Kopi
+CUST-017,Eko Maharani,Perempuan,,Sidoarjo,Silver,2023-02-20,2.0,27000.0,makanan berat
+CUST-018,Bagas Maharani,Perempuan,31.0,Mojokerto,Reguler,2023-01-23,3.0,29000.0,Kopi
+CUST-019,,wanita,36.0,Surabaya,Platinum,2023-09-28,5.0,31000.0,Kopi
+CUST-019,,wanita,36.0,Surabaya,Platinum,2023-09-28,5.0,31000.0,Kopi
+CUST-020,Maya Permata,Laki-laki,32.0,Malang,Gold,2024-09-03,3.0,14000.0,Non-Kopi
+CUST-021,Tono Wibowo,Perempuan,29.0,Surabaya,Silver,2025-10-28,7.0,32000.0,Camilan
+CUST-022,Sari Lestari,Laki-laki,22.0,,Silver,2025-08-14,3.0,33000.0,Makanan Berat 
+CUST-023,Lestari Wijaya,Laki-laki,16.0,Surabaya,Reguler,,6.0,35000.0,Makanan Berat
+CUST-024,Umar Maharani,Perempuan,51.0,Surabaya,Gold,2023-09-01,2.0,,Camilan
+CUST-025,Eko Lestari,Laki-laki,28.0,Surabaya,Reguler,2025-05-21,5.0,31000.0,Makanan Berat
+CUST-026,Maya Maharani,LAKI-LAKI,30.0,surabaya,Platinum,,6.0,34000.0,Kopi
+CUST-027,,wanita,16.0,Malang,Reguler,2024-02-19,10.0,45000.0,Camilan 
+CUST-028,Gita Kusuma,perempuan,30.0,Surabaya,Reguler,,4.0,24000.0,Non-Kopi
+CUST-029,Kiki Saputra,LAKI-LAKI,40.0,Surabaya,platinum,2023-08-19,5.0,,Non-Kopi
+CUST-030,Hendra Firmansyah,Laki-laki,30.0,Sidoarjo,Silver,2025-10-20,2.0,38000.0,Camilan
+CUST-031,Yuni Santoso,Perempuan,26.0,Surabaya,Reguler,2023-11-12,5.0,36000.0,Makanan Berat
+CUST-032,Fajar Pratama,perempuan,34.0,Mojokerto,reguler,2024-07-12,4.0,29000.0,Makanan Berat
+CUST-033,Aldi Firmansyah,Perempuan,35.0,Surabaya,Reguler ,22/04/2024,5.0,40000.0,Non-Kopi
+CUST-034,Nadia Setiawan,LAKI-LAKI,32.0,Surabaya,Reguler,,120.0,26000.0,Non-Kopi 
+CUST-035,Lestari Firmansyah,Laki-laki,20.0,Surabaya,Platinum,18/08/2025,5.0,,Makanan Berat
+CUST-036,Salsa Kusuma,Perempuan,37.0,Surabaya,Reguler,29/03/2024,4.0,41000.0,Camilan
+CUST-037,Fajar Permata,Laki-laki,22.0,Surabya,Silver,2023-04-09,6.0,49000.0,Camilan
+CUST-038,Indah Wijaya,Perempuan,32.0,Gresik,Reguler,2024-05-23,4.0,31000.0,CAMILAN
+CUST-039,Eko Maharani,Perempuan,41.0,,Reguler,2023-04-02,2.0,34000.0,Camilan
+CUST-040,Tono Ananda,,31.0,Surabaya,Reguler,17/02/2023,5.0,32000.0,Camilan
+CUST-041,,wanita,36.0,Surabaya,Silver,2023-01-07,7.0,43000.0,Makanan Berat
+CUST-042,Fitri Wijaya,pria,30.0,Surabaya,Reguler,2025-03-13,,33000.0,makanan berat
+CUST-043,Gita Kusuma,Perempuan,29.0,Surabaya,Reguler,2025-07-02,4.0,31000.0,Kopi
+CUST-044,Putri Maharani,perempuan,38.0,Surabaya,Gold,2025-11-23,10.0,27000.0,Makanan Berat
+CUST-045,Hendra Rahma,Perempuan,34.0,,Reguler,25/04/2023,6.0,29000.0,NON-KOPI
+CUST-046,Nadia Wibowo,Perempuan,200.0,Mlg,Reguler,19/02/2025,3.0,34000.0,Camilan
+CUST-047,Indah Saputra,L,27.0,Surabaya,Gold ,2024-10-03,6.0,21000.0,Makanan Berat
+CUST-048,Fajar Setiawan,Perempuan,35.0,surabaya,Reguler,2024-04-08,1.0,40000.0,Makanan Berat
+CUST-049,Dewi Maharani,Laki-laki,16.0,Gresik,Silver,2024-09-27,1.0,25000.0,Makanan Berat
+CUST-050,Nanda Lestari,Perempuan,33.0,Surabaya,Reguler,2025-09-22,7.0,17000.0,Camilan
+CUST-051,Eko Wibowo,Perempuan,44.0,Surabaya,,07/06/2024,3.0,39000.0,Makanan Berat
+CUST-052,Nadia Ananda,Perempuan,24.0,Surabaya,Reguler,27/10/2024,2.0,26000.0,Kopi
+CUST-053,Tono Rahma,Laki-laki,38.0,sidoarjo,Gold,2024-06-24,7.0,,Non-Kopi
+CUST-054,Salsa Kusuma,Perempuan,27.0,Sidoarjo,Silver,2024-06-14,7.0,32000.0,Kopi
+CUST-055,Eko Wibowo,Laki-laki,26.0,Mojokerto,Silver,2023-10-19,6.0,43000.0,Camilan
+CUST-056,Fitri Santoso,Perempuan,19.0,Surabaya,Reguler,2024-12-29,1.0,44000.0,Camilan
+CUST-057,Aldi Lestari,Perempuan,33.0,Gresik,Reguler,20/10/2025,3.0,22000.0,Makanan Berat
+CUST-058,Rani Santoso,L,24.0,Surabaya,Reguler,2024-02-29,7.0,52000.0,Kopi
+CUST-059,Umar Nugroho,Perempuan,16.0,Surabaya,Gold,2023-05-26,4.0,48000.0,Makanan Berat
+CUST-060,Citra Wijaya,pria,,Surabaya,Reguler,13/12/2024,,19000.0,Non-Kopi
+CUST-061,Citra Saputra,Laki-laki,33.0,Surabaya,Reguler,2023-04-17,3.0,,Makanan Berat
+CUST-062,Fajar Wijaya,Perempuan,26.0,Surabaya,Reguler,2025-11-19,5.0,40000.0,Makanan Berat
+CUST-063,Wahyu Pratama,Laki-laki,19.0,Surabaya,Silver,2025-03-20,6.0,,Makanan Berat
+CUST-064,Kiki Lestari,Laki-laki,35.0,Surabaya,Gold,2025-08-25,4.0,26000.0,Makanan Berat
+CUST-065,Nanda Wibowo,Perempuan,24.0,mojokerto,Silver,2024-06-22,4.0,35000.0,Kopi 
+CUST-066,Maya Lestari,LAKI-LAKI,25.0,Sidoarjo,Reguler ,2023-08-04,11.0,31000.0,Makanan Berat
+CUST-067,Rizky Lestari,Laki-laki,34.0,Surabaya,Reguler,2025-08-15,4.0,19000.0,Makanan Berat
+CUST-068,Indah Setiawan,pria,26.0,Surabaya,Platinum,2024-06-29,4.0,51000.0,Camilan 
+CUST-069,Dimas Setiawan,Perempuan,38.0,Surabaya,Reguler,2023-03-27,,41000.0,KOPI
+CUST-070,Tono Saputra,Perempuan,36.0,Surabya,silver,2025-08-24,5.0,34000.0,Camilan
+CUST-071,Sari Permata,Laki-laki,32.0,Sidoarjo,platinum,2025-08-06,8.0,40000.0,Camilan
+CUST-072,Andi Lestari,,0.0,,Reguler,17/03/2025,4.0,43000.0,Makanan Berat
+CUST-073,Indah Wijaya,wanita,27.0,Surabaya,Reguler,2024-05-15,4.0,31000.0,Camilan
+CUST-074,Yuni Nugroho,Laki-laki,,Mojokerto,Reguler,15/07/2024,3.0,34000.0,Makanan Berat
+CUST-075,Indah Hidayat,Laki-laki,37.0,Sidoarjo,Silver,2023-07-29,5.0,35000.0,
+CUST-076,Mega Pratama,Perempuan,26.0,Surabaya,Silver,02/07/2025,8.0,,
+CUST-077,Wahyu Setiawan,Perempuan,-10.0,Surabaya,Reguler,2023-12-15,10.0,44000.0,Kopi
+CUST-078,Lestari Santoso,,18.0,sidoarjo,Reguler,2023-09-16,7.0,51000.0,
+CUST-079,Indah Permata,,18.0,Surabaya,Silver,2025-09-23,7.0,20000.0,Kopi 
+CUST-080,Tono Nugroho,P,23.0,Surabya,Reguler,2023-04-18,6.0,-20000.0,Camilan
+CUST-081,Budi Pratama,,28.0,Sidoarjo,,2023-08-29,5.0,32000.0,Camilan
+CUST-082,Citra Wijaya,Laki-laki,34.0,,Reguler,10/02/2025,9.0,31000.0,Makanan Berat
+CUST-083,Dewi Ananda,Perempuan,,Gresik,Gold,11/04/2023,5.0,22000.0,NON-KOPI
+CUST-084,Fajar Firmansyah,Perempuan,27.0,Surabaya,Gold,2024-04-04,3.0,52000.0,Camilan
+CUST-085,Umar Rahma,Laki-laki,33.0,Sidoarjo,REGULER,2023-04-26,5.0,44000.0,Makanan Berat
+CUST-086,Vina Lestari,Laki-laki,28.0,Surabaya,Silver,25/10/2023,3.0,39000.0,Kopi
+CUST-086,Vina Lestari,Laki-laki,28.0,Surabaya,Silver,25/10/2023,3.0,39000.0,Kopi
+CUST-087,Wahyu Permata,P,28.0,Surabaya,Gold,2025-09-13,6.0,34000.0,Makanan Berat
+CUST-088,Yuni Rahma,Perempuan,36.0,Sidoarjo,Reguler,21/12/2024,4.0,29000.0,Kopi
+CUST-089,Tono Pratama,Perempuan,32.0,Surabaya,Reguler,2023-11-06,4.0,30000.0,Non-Kopi
+CUST-089,Tono Pratama,Perempuan,32.0,Surabaya,Reguler,2023-11-06,4.0,30000.0,Non-Kopi
+CUST-090,Rizky Santoso,Laki-laki,28.0,Sidoarjo,Reguler,2024-12-30,4.0,45000.0,Non-Kopi
+CUST-091,Andi Ananda,,31.0,Mlg,Silver,2025-03-24,5.0,57000.0,Camilan
+CUST-092,Salsa Ananda,Perempuan,33.0,SBY,Reguler,2024-10-12,2.0,41000.0,Non-Kopi
+CUST-093,Dimas Setiawan,Laki-laki,29.0,sidoarjo,Silver,2024-06-04,7.0,38000.0,Non-Kopi
+CUST-094,Tono Nugroho,Laki-laki,18.0,Sidoarjo,Gold,21/03/2023,7.0,31000.0,
+CUST-095,Dimas Wibowo,Perempuan,29.0,surabaya,Silver,28/05/2024,4.0,41000.0,Makanan Berat
+CUST-096,Sari Kusuma,Perempuan,30.0,Sidoarjo,Reguler,2024-03-09,5.0,40000.0,Camilan
+CUST-097,Citra Rahma,Perempuan,29.0,Gresik,Reguler,2024-10-30,6.0,31000.0,Makanan Berat
+CUST-098,Andi Wibowo,wanita,28.0,gresik,Reguler,2023-01-01,4.0,47000.0,Kopi
+CUST-099,Gita Kusuma,Perempuan,18.0,SBY,Gold,2025-06-10,3.0,27000.0,Makanan Berat
+CUST-100,Dewi Permata,Laki-laki,1.0,Gresik,Gold,2024-04-10,3.0,39000.0,Kopi
+CUST-100,Dewi Permata,Laki-laki,1.0,Gresik,Gold,2024-04-10,3.0,39000.0,Kopi
+CUST-101,Mega Wijaya,Laki-laki,41.0,Surabaya,silver,2025-09-22,,34000.0,Makanan Berat
+CUST-101,Mega Wijaya,Laki-laki,41.0,Surabaya,silver,2025-09-22,,34000.0,Makanan Berat
+CUST-102,Yuni Wijaya,Laki-laki,31.0,,,2025-01-04,2.0,36000.0,Camilan
+CUST-103,Sari Hidayat,Laki-laki,26.0,Surabaya,Reguler,2023-02-03,4.0,25000.0,Makanan Berat 
+CUST-104,Fajar Saputra,Laki-laki,24.0,Surabaya,,2023-11-01,5.0,43000.0,Makanan Berat
+CUST-105,Rani Hidayat,L,43.0,,Silver,18/05/2025,9.0,57000.0,Non-Kopi
+CUST-106,Umar Wibowo,Perempuan,16.0,Surabaya,Gold,2025-11-17,7.0,35000.0,Makanan Berat
+CUST-107,Putri Wijaya,pria,46.0,Surabaya,Reguler,2025-08-05,8.0,32000.0,Makanan Berat
+CUST-108,Fitri Ananda,Perempuan,,Sidoarjo,Silver,2023-08-04,,38000.0,Non-Kopi
+CUST-109,Andi Ananda,Perempuan,18.0,Surabaya,GOLD,2025-09-06,7.0,38000.0,Kopi
+CUST-110,Lestari Nugroho,Laki-laki,24.0,Surabaya,Gold ,,6.0,,Makanan Berat
+CUST-111,Eko Saputra,Perempuan,25.0,surabaya,Platinum,2024-05-15,5.0,27000.0,Kopi
+CUST-112,Rizky Ananda,perempuan,34.0,Malang,Gold,2024-07-02,4.0,26000.0,Makanan Berat
+CUST-113,Mega Santoso,Perempuan,28.0,Malang,Silver,2023-10-05,1.0,3500000.0,Makanan Berat
+CUST-114,Nadia Lestari,P,,Surabaya,Silver,05/08/2024,,42000.0,Makanan Berat
+CUST-115,Tono Pratama,Perempuan,16.0,Surabaya,Reguler,16/01/2024,4.0,0.0,Non-Kopi
+CUST-116,Salsa Permata,Perempuan,34.0,Surabaya,Platinum,2025-07-09,-4.0,20000.0,Kopi
+CUST-117,Nadia Wibowo,Laki-laki,23.0,Surabaya,Platinum,2025-06-11,7.0,41000.0,Kopi
+CUST-118,Aldi Firmansyah,,16.0,Surabaya,Silver,19/06/2024,5.0,,Makanan Berat
+CUST-119,Lestari Santoso,Perempuan,30.0,Gresik,Gold,2024-08-26,4.0,25000.0,Non-Kopi
+CUST-120,Yuni Permata,Laki-laki,39.0,Surabaya,SILVER,2025-03-08,2.0,40000.0,Camilan

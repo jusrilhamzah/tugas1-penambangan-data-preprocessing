@@ -1,0 +1,125 @@
+﻿id_transaksi,tanggal,outlet,nama_kasir,jenis_pesanan,waktu_antri,waktu_penyajian,waktu_pembayaran,total_waktu_layanan,status_layanan
+TRX-0001,2026-01-01,SBY Pusat,FAISAL,Dine-in,106.0,112.0,27.0,245.0,Cepat
+TRX-0004,2026-01-02,Surabaya Barat,,Dine-in,119.0,,32.0,,NORMAL
+TRX-0004,2026-01-02,Surabaya Barat,,Dine-in,119.0,,32.0,,NORMAL
+TRX-0008,2026-01-02,Surabaya Timur,Siska,Dine-in,102.0,134.0,26.0,262.0,Cepat
+TRX-0011,2026-01-04,Surabaya Pusat,Bayu,,73.0,259.0,,365.0,Nor.
+TRX-0013,2026-01-05,Surabaya Timur ,Bayu,Delivery,64.0,158.0,25.0,247.0,Cepat
+TRX-0014,,Surabaya Pusat,Rina,Dine-in,90.0,161.0,35.0,286.0,Cepat
+TRX-0015,2026-01-06,Surabaya Barat,Doni,Dine-in,75.0,369.0,18.0,462.0,Normal
+TRX-0016,2026-01-06,Surabaya Barat ,Siska,Takeaway,,355.0,49.0,512.0,Lambat
+TRX-0018,2026-01-06,Surabaya Timur,Rina ,take away,58.0,2500.0,44.0,582.0,Lambat
+TRX-0019,2026-01-07,Surabaya Pusat,Faisal,,65.0,388.0,42.0,495.0,Normal
+TRX-0020,2026-01-07,Surabaya Pusat,Lia,Delivery,402.0,363.0,44.0,541.0,Lambat
+TRX-0022,2026-01-08,Surabaya Pusat,Faisal,Takeaway,49.0,256.0,20.0,,Normal
+TRX-0024,2026-01-08,Surabaya Barat,Siska,Dine-in,102.0,204.0,45.0,351.0,Nor.
+TRX-0028,2026-01-09,Surabaya Pusat,Bayu,Takeaway,104.0,389.0,41.0,534.0,LAMBAT
+TRX-0029,2026-01-09,surabaya pusat,Faisal,,108.0,354.0,,479.0,Normal
+TRX-0030,2026-01-09,Surabaya Barat,Rina ,Dine-in,105.0,227.0,42.0,374.0,Normal
+TRX-0032,2026-01-10,Surabaya Barat,Rina,DINE-IN,110.0,126.0,15.0,251.0,Cepat
+TRX-0034,2026-01-12,surabaya timur,Faisal,Take Away,101.0,135.0,48.0,284.0,Cepat
+TRX-0035,2026-01-12,Surabaya Barat,,Takeaway,87.0,316.0,30.0,433.0,
+TRX-0037,2026-01-12,SBY Timur,Siska,DINE-IN,81.0,233.0,61.0,375.0,NORMAL
+TRX-0038,,Surabaya Pusat,Faisal,Dine-in,15.0,286.0,59.0,360.0,Normal
+TRX-0041,2026-01-13,SBY Timur,doni,Dine-in,114.0,267.0,49.0,430.0,Normal
+TRX-0042,2026-01-13,Surabaya Pusat,Lia,Dine-in,102.0,-45.0,35.0,525.0,Lambat
+TRX-0045,2026-01-14,,Rina,Takeaway,49.0,103.0,64.0,216.0,Cepat
+TRX-0046,2026-01-14,Surabaya Barat,Lia,Dine-in,132.0,60.0,15.0,207.0,Cepat
+TRX-0048,2026-01-15,Surabaya Pusat,rina,Dine-in,,411.0,62.0,532.0,Lambat
+TRX-0049,2026-01-15,Surabaya Timur,Rina,Takeaway,53.0,321.0,66.0,440.0,Normal
+TRX-0051,2026-01-15,Surabaya Barat,Faisal,Takeaway,108.0,170.0,66.0,344.0,Normal
+TRX-0054,2026-01-16,Surabaya Pusat,bayu,Takeaway,81.0,410.0,56.0,547.0,Lambat
+TRX-0055,2026-01-16,Surabaya Barat,Bayu,Takeaway,75.0,9999.0,55.0,358.0,Normal
+TRX-0056,2026-01-16,Surabaya Timur,Faisal,Dine-in,133.0,254.0,67.0,454.0,
+TRX-0057,2026-01-17,Surabaya Timur,Rina,Dine-in,,118.0,40.0,347.0,Nor.
+TRX-0058,2026-01-17,Surabaya Pusat,Doni,Dine-in,,280.0,35.0,425.0,Normal
+TRX-0059,2026-01-17,,Rina,delivery,160.0,216.0,58.0,434.0,Normal
+TRX-0061,2026-01-17,Surabaya Pusat,,Delivery,172.0,210.0,59.0,441.0,Normal
+TRX-0062,2026-01-17,Surabaya Pusat,Bayu,Dine In,125.0,240.0,51.0,416.0,Normal
+TRX-0068,2026-01-19,Surabaya Barat,Bayu,Takeaway,204.0,344.0,45.0,457.0,Normal
+TRX-0069,2026-01-19,Surabaya Barat,Doni,Delivery,50.0,186.0,65.0,301.0,Normal
+TRX-0073,2026-01-20,Surabaya Pusat,,Delivery,94.0,,44.0,432.0,Normal
+TRX-0076,2026-01-21,Surabaya Pusat,Bayu,Dine-in,132.0,381.0,44.0,557.0,Lambat
+TRX-0077,2026-01-21,Surabaya Pusat,Doni,Dine-in,68.0,305.0,35.0,408.0,NORMAL
+TRX-0079,2026-01-21,Surabaya Barat,Rina,Takeaway,108.0,257.0,36.0,401.0,NORMAL
+TRX-0081,2026-01-22,Surabaya Pusat,Faisal,Online,123.0,198.0,38.0,359.0,Normal
+TRX-0084,2026-01-23,surabaya timur,Siska,Dine-in,105.0,231.0,59.0,395.0,Normal
+TRX-0086,2026-01-24,SBY Barat,Siska,Dine-in,,265.0,,416.0,Normal
+TRX-0087,2026-01-24,Surabaya Timur,Siska,Takeaway,101.0,360.0,35.0,496.0,Normal
+TRX-0089,2026-01-24,SBY Barat,siska,Dine-in,102.0,214.0,61.0,377.0,Normal
+TRX-0089,2026-01-24,SBY Barat,siska,Dine-in,102.0,214.0,61.0,377.0,Normal
+TRX-0090,2026-01-24,Surabaya Pusat,Faisal,,79.0,325.0,46.0,450.0,Normal
+TRX-0093,2026-01-26,Surabaya Pusat,Doni,Dine In,110.0,143.0,40.0,293.0,Cepat
+TRX-0095,2026-01-26,Surabaya Timur,Faisal,Dine In,57.0,341.0,31.0,429.0,Normal
+TRX-0097,2026-01-26,Surabaya Timur ,RINA,Takeaway,123.0,348.0,44.0,515.0,Lambat
+TRX-0100,2026-01-27,Surabaya Pusat,Doni,Takeaway,15.0,224.0,58.0,297.0,Cepat
+TRX-0101,2026-01-28,Surabaya Timur ,Faisal,Dine-in,71.0,258.0,,,Normal
+TRX-0102,2026-01-28,Surabaya Timur,Rina,Dine-in,115.0,,43.0,334.0,Normal
+TRX-0103,2026-01-28,Surabaya Timur,Bayu,Takeaway,132.0,205.0,32.0,369.0,Normal
+TRX-0106,2026-01-29,Surabaya Pusat,Bayu,,82.0,308.0,66.0,456.0,Normal
+TRX-0108,2026-01-29,Surabaya Timur,Doni,Delivery,105.0,458.0,,611.0,Lambat
+TRX-0109,2026-01-29,Surabaya Timur,bayu,Takeaway,77.0,202.0,23.0,302.0,Normal
+TRX-0111,2026-01-29,Surabaya Pusat,bayu,Delivery,133.0,209.0,49.0,391.0,Normal
+TRX-0112,2026-01-30,Surabaya Pusat,,Takeaway,118.0,293.0,50.0,461.0,
+TRX-0114,2026-01-30,Surabaya Pusat ,Bayu,,150.0,332.0,32.0,514.0,
+TRX-0115,2026-01-31,,Bayu,Takeaway,171.0,338.0,34.0,429.0,normal
+TRX-0116,2026-01-31,Surabaya Pusat,Bayu,Dine-in,96.0,211.0,48.0,355.0,Normal
+TRX-0121,2026-02-01,Surabaya Pusat,siska,Dine-in,45.0,238.0,40.0,323.0,Nor.
+TRX-0128,2026-02-02,Surabaya Barat,Doni,Dine-in,63.0,209.0,42.0,314.0,Normal
+TRX-0129,2026-02-02,Surabaya Timur,Bayu,Dine-in,136.0,202.0,51.0,389.0,Normal
+TRX-0131,2026-02-02,Surabaya Pusat,Doni,Takeaway,168.0,297.0,47.0,512.0,Lambat
+TRX-0134,2026-02-03,Surabaya Pusat,Faisal,Dine-in,82.0,194.0,29.0,305.0,NORMAL
+TRX-0135,2026-02-03,Surabaya Pusat,Rina,Takeaway,,,38.0,251.0,Cepat
+TRX-0136,2026-02-03,Surabaya Pusat,doni,Dine-in,105.0,342.0,51.0,498.0,normal
+TRX-0137,2026-02-03,surabaya timur,Rina,takeaway,114.0,391.0,56.0,561.0,Lambat
+TRX-0140,2026-02-04,Surabaya Pusat,Rina,Takeaway,35.0,108.0,57.0,200.0,Cepat
+TRX-0143,2026-02-05,Surabaya Timur,Faisal,Dine-in,55.0,186.0,64.0,,Normal
+TRX-0144,2026-02-05,surabaya pusat,Lia,Dine-in,44.0,126.0,17.0,187.0,Cepat
+TRX-0145,2026-02-06,Surabaya Pusat,Lia,Dine-in,149.0,,,276.0,Cepat
+TRX-0146,,Surabaya Timur,Lia,Dine-in,104.0,251.0,32.0,387.0,Normal
+TRX-0147,2026-02-06,Surabaya Barat,Lia,,117.0,383.0,27.0,527.0,lambat
+TRX-0148,2026-02-06,Surabaya Timur,,Takeaway,118.0,60.0,79.0,257.0,cepat
+TRX-0149,2026-02-06,Surabaya Pusat,LIA,DINE-IN,72.0,106.0,39.0,4500.0,Cepat
+TRX-0150,2026-02-07,Surabaya Timur,,Takeaway,73.0,334.0,38.0,-100.0,Normal
+TRX-0151,2026-02-07,Surabaya Pusat,Lia,Dine-in,97.0,337.0,52.0,486.0,Normal
+TRX-0154,2026-02-09,Surabaya Pusat,Doni,Takeaway,52.0,3000.0,79.0,338.0,Normal
+TRX-0155,2026-02-09,Surabaya Pusat,Siska,Delivery,197.0,,38.0,8000.0,Normal
+TRX-0159,2026-02-10,,Bayu,delivery,133.0,,50.0,468.0,normal
+TRX-0160,2026-02-11,surabaya barat,Rina,Delivery,32.0,79.0,40.0,151.0,Cepat
+TRX-0164,2026-02-12,Surabaya Barat,Doni,Takeaway,162.0,93.0,74.0,329.0,
+TRX-0166,2026-02-12,SBY Pusat,Rina,Delivery,86.0,178.0,54.0,318.0,Normal
+TRX-0169,2026-02-13,SBY Timur,Doni,Takeaway,180.0,363.0,68.0,611.0,Lam.
+TRX-0174,2026-02-14,Surabaya Barat,Lia,Takeaway,333.0,316.0,41.0,468.0,Normal
+TRX-0177,2026-02-14,Surabaya Timur,Lia,Dine-in,83.0,387.0,51.0,521.0,Lambat
+TRX-0178,2026-02-14,Surabaya Pusat,Doni,Dine-in,474.0,401.0,50.0,609.0,Lambat
+TRX-0181,2026-02-15,Surabaya Timur,Bayu ,Dine-in,100.0,264.0,27.0,391.0,normal
+TRX-0182,2026-02-15,Surabaya Barat,Lia,Dine-in,43.0,266.0,64.0,373.0,NORMAL
+TRX-0185,2026-02-16,Surabaya Pusat,Siska,Dine-in,25.0,142.0,35.0,202.0,Cepat
+TRX-0188,2026-02-17,Surabaya Pusat ,siska,Dine-in,117.0,273.0,60.0,450.0,Normal
+TRX-0194,2026-02-18,Surabaya Barat,Lia,Takeaway,136.0,313.0,44.0,493.0,Normal
+TRX-0194,2026-02-18,Surabaya Barat,Lia,Takeaway,136.0,313.0,44.0,493.0,Normal
+TRX-0195,2026-02-18,Surabaya Pusat,Siska,Takeaway,66.0,251.0,51.0,368.0,Normal
+TRX-0195,2026-02-18,Surabaya Pusat,Siska,Takeaway,66.0,251.0,51.0,368.0,Normal
+TRX-0196,,Surabaya Pusat,Lia,Dine-in,137.0,261.0,41.0,439.0,Normal
+TRX-0199,2026-02-19,surabaya barat,Rina ,Dine-in,63.0,,39.0,314.0,Normal
+TRX-0200,2026-02-19,SBY Pusat,Lia,Dine-in,57.0,266.0,53.0,376.0,
+TRX-0203,2026-02-20,Surabaya Pusat,Rina,Takeaway,79.0,153.0,47.0,,Cepat
+TRX-0204,2026-02-20,Surabaya Pusat ,Rina,Takeaway,,241.0,53.0,337.0,Normal
+TRX-0205,2026-02-20,Surabaya Pusat,Doni,Dine-in,38.0,372.0,22.0,432.0,Normal
+TRX-0206,2026-02-20,Surabaya Timur,Siska,Dine-in,155.0,354.0,25.0,534.0,Lambat
+TRX-0207,2026-02-21,,Doni,Dine-in,146.0,260.0,,464.0,Normal
+TRX-0211,2026-02-22,Surabaya Timur,Doni,Dine-in,25.0,352.0,37.0,414.0,Nor.
+TRX-0214,2026-02-23,Surabaya Barat,Rina,DINE-IN,,294.0,47.0,504.0,Lambat
+TRX-0215,2026-02-23,Surabaya Timur,Doni,Dine-in,134.0,225.0,57.0,416.0,Normal
+TRX-0217,2026-02-23,Surabaya Pusat,Bayu,Dine-in,15.0,,42.0,,
+TRX-0219,2026-02-24,Surabaya Timur,Rina,Takeaway,82.0,208.0,46.0,336.0,Normal
+TRX-0222,2026-02-24,Surabaya Pusat,Bayu ,Dine-in,77.0,64.0,40.0,181.0,Cepat
+TRX-0224,2026-02-25,surabaya barat,Faisal,Delivery,121.0,207.0,35.0,363.0,Normal
+TRX-0229,,surabaya timur,Doni ,Delivery,69.0,262.0,53.0,384.0,Nor.
+TRX-0231,2026-02-27,Surabaya Timur,doni,Dine-in,50.0,69.0,,153.0,
+TRX-0233,2026-02-27,Surabaya Pusat,Siska,Dine-in,162.0,194.0,34.0,390.0,normal
+TRX-0234,2026-02-27,Surabaya Timur,Lia,Dine-in,73.0,162.0,35.0,270.0,Cepat
+TRX-0235,2026-02-28,Surabaya Barat,Rina,Delivery,67.0,,42.0,330.0,Normal
+TRX-0237,2026-02-28,Surabaya Barat,Faisal,Dine-in,69.0,260.0,49.0,378.0,Normal
+TRX-0238,2026-02-28,Surabaya Pusat,Bayu,Delivery,,190.0,54.0,,Cepat
+TRX-0239,2026-02-28,,Doni,Delivery,59.0,195.0,36.0,290.0,cepat

@@ -1,0 +1,125 @@
+﻿id_transaksi,id_pelanggan,tanggal_transaksi,outlet,jenis_kelamin,usia,kategori_menu,jumlah_item,total_harga,metode_pembayaran,durasi_layanan_menit,rating_kepuasan
+TRX-0121,CUST-033,1 Feb 2026,SBY Pusat,Perempuan,35,Non-Kopi,1,22000,E-Wallet,9.5,4.0
+TRX-0122,CUST-046,2026-02-01,Surabaya Barat,Wanita,34,Non-Kopi,3,76000,,4.3,5.0
+TRX-0123,CUST-065,2026-02-01,SBY Pusat,PEREMPUAN,24,Non-Kopi,5,,QRIS,14.9,4.0
+TRX-0124,CUST-007,2026-02-01,Surabaya Pusat,laki-laki,25,Camilan,3,81000,E-Wallet,13.4,3.0
+TRX-0125,CUST-004,01-02-2026,Surabaya Pusat,,22,Camilan,3,59000,E-Wallet,14.3,4.0
+TRX-0126,CUST-053,01/02/2026,Surabaya Timur,Laki-laki,38,Camilan,2,20000,E-Wallet,8.5,4.0
+TRX-0126,CUST-053,01/02/2026,Surabaya Timur,Laki-laki,38,Camilan,2,20000,E-Wallet,8.5,4.0
+TRX-0127,CUST-034,2026-02-01,Surabaya Pusat,Laki-laki,32,NonKopi,1,23000,tunai,6.1,5.0
+TRX-0128,CUST-023,2026-02-02,Surabaya Barat,Pria,16,Kopi,3,110000,Kartu Debit,10.6,
+TRX-0129,CUST-099,02/02/2026,Surabaya Timur,,18,Kopi ,2,37000,Tunai,6.2,4.0
+TRX-0130,CUST-069,02/02/2026,Surabaya Barat,Perempuan,38,Kopi,3,60000,E-Wallet,,5.0
+TRX-0131,CUST-069,02/02/2026,Surabaya Pusat,Perempuan,38,Kopi,1,30000,Kartu Debit,10.6,3.0
+TRX-0132,CUST-119,2026-02-02, Surabaya Pusat,P,30,Kopi,1,21000,QRIS,9.0,4.0
+TRX-0133,CUST-102,2026-02-03,SBY Pusat,Laki-laki,31,Camilan,2,27000,Tunai,13.1,3.0
+TRX-0134,CUST-060,2026-02-03,,Laki-laki,dua puluh lima,Non-Kopi,1,22000,Debit,7.5,4.0
+TRX-0135,,,Surabaya Pusat,Perempuan,-5,Non-Kopi,1,26000,E-Wallet,3.7,5.0
+TRX-0136,CUST-112,2026-02-03,Surabaya Pusat,Perempuan,34,Makanan Berat,2,83000.00,E-Wallet,10.0,5.0
+TRX-0137,CUST-028,03-02-2026,SBY Timur,Perempuan,30,Camilan,4,64000,E-Wallet,6.6,
+TRX-0138,,2026-02-03,Surabaya Timur,Laki-laki,34,Non-Kopi,2,47000,Tunai,9.5,3.0
+TRX-0139,CUST-120,2026-02-04,Surabaya Pusat,Laki-laki,39,Camilan,1,17000,QR Code,4.0,5.0
+TRX-0140,CUST-018,2026-02-04,Surabaya Pusat,Perempuan,0,Kopi,4,1250000,E-Wallet,3.8,5.0
+TRX-0141,CUST-061,2026-02-05,Surabaya Pusat,Laki-laki,33,Kopi,3,57000,QRIS,8.3,4.0
+TRX-0142,CUST-071,2026-02-05,Surabaya Timur,Laki-laki,32,Makanan Berat,1,49000,Tunai,11.6,5.0
+TRX-0143,CUST-115,05/02/2026,Surabaya Timur,Perempuan,16,,3,41000,Kartu Debit,9.7,4.0
+TRX-0144,CUST-063,2026-02-05,Surabaya Pusat,Laki-laki,,,3,62000.00,E-Wallet,6.8,5.0
+TRX-0145,CUST-049,06/02/2026,surabaya pusat,Laki-laki,16,Camilan,3,,QRIS,7.1,4.0
+TRX-0146,CUST-018,2026-02-06,Surabaya Timur,Perempuan,31,Non-Kopi,1,20000,QRIS,11.3,3.0
+TRX-0147,CUST-010,06-02-2026,Sby Barat,Laki-laki,38,kopi,3,30000,E-Wallet,6.9,5.0
+TRX-0148,CUST-110,06/02/2026,Surabaya Timur,Laki-laki,24,Kopi,1,27000,QRIS,6.4,5.0
+TRX-0149,CUST-023,2026-02-06,Surabaya Pusat,Laki-laki,16,Non-Kopi,2,Rp 47.000,Tunai,5.9,5.0
+TRX-0150,CUST-094,7 Feb 2026,Surabaya Timur,Laki-laki,18,Makanan Berat,1,37000,Qris,,5.0
+TRX-0151,CUST-042,07/02/2026,Surabaya Pusat,Laki-laki,30,Non-Kopi,2,34000,QRIS,6.1,5.0
+TRX-0152,CUST-040,2026-02-08,SBY Timur,Laki-laki,31,Non-Kopi,1,23000,E-Wallet,9.3,4.0
+TRX-0153,CUST-070,2026-02-09,Surabaya Barat,Perempuan,36,Camilan,,Rp 21.000,QRIS,6.3,4.0
+TRX-0154,CUST-060,2026-02-09,surabaya pusat,Laki-laki,20,,1,31000,e wallet,11.5,3.0
+TRX-0155,CUST-072,2026-02-09,Surabaya Pusat,Laki-laki,24,Kopi,2,57000,Qris,10.9,4.0
+TRX-0156,,2026-02-09,Surabaya Barat,Perempuan,24,Kopi,5,156000,Tunai,10.3,3.0
+TRX-0157,CUST-055,10 Feb 2026,surabaya pusat,Laki-laki,26,Kopi,1,Rp 23.000,Tunai,7.0,4.0
+TRX-0158,CUST-087,10/02/2026,Surabaya Timur,Perempuan,28,Kopi,1,33000,qris,7.7,5.0
+TRX-0159,CUST-006,2026-02-10,Surabaya  Pusat,Laki-laki,,Kopi,2,43000,QRIS,7.4,4.0
+TRX-0160,CUST-077,11/02/2026,Surabaya  Barat,,47,Non-Kopi,2,47000,E-Wallet,15.4,4.0
+TRX-0161,CUST-115,2026-02-11,surabaya timur,,16,Camilan,2,Rp 44.000,E-Wallet,11.0,4.0
+TRX-0162,CUST-078,2026-02-11,Surabaya  Pusat,Perempuan,18,non-kopi,5,76000,E-Wallet,15.3,5.0
+TRX-0163,CUST-065,,Surabaya Pusat,Perempuan,24,Non-Kopi,2,42000,E-Wallet,11.9,4.0
+TRX-0164,CUST-072,12/02/2026,Surabaya Barat,Laki-laki,24,Kopi,1,27000,QRIS,4.7,5.0
+TRX-0165,CUST-041,12 Feb 2026,Surabaya Timur,Perempuan,36,Kopi,1,22000,E-Wallet,8.6,4.0
+TRX-0166,CUST-048,2026-02-12,Surabaya Pusat,Perempuan,35,Kopi,1,26000,QRIS,6.6,4.0
+TRX-0167,CUST-074,12 Feb 2026,Surabaya Barat,Laki-laki,26,Camilan,1,18000,QRIS,7.2,4.0
+TRX-0168,CUST-069,2026-02-12,SBY Timur,perempuan,38,Kopi,1,25000,QRIS,8.0,4.0
+TRX-0169,CUST-109,13-02-2026,Surabaya Timur,Perempuan,18,Kopi,1,27000,Kartu Debit,7.8,0.0
+TRX-0170,CUST-078,2026-02-13,Surabaya Pusat,Perempuan,18,Kopi,4,109000,QR Code,11.1,5.0
+TRX-0171,CUST-017,2026-02-13,Surabaya Pusat,Perempuan,23,Makanan Berat,1,33000,QR Code,15.4,3.0
+TRX-0172,CUST-086,13 Feb 2026,surabaya timur,Laki-laki,28,Camilan,5,66000,Tunai,12.0,4.0
+TRX-0173,CUST-102,2026-02-13,Surabaya Pusat,,31,Non-Kopi,1,Rp 16.000,QRIS,9.2,5.0
+TRX-0174,CUST-018,14/02/2026,Surabaya Barat,Perempuan,31,Non-Kopi,5,Rp 77.000,QRIS,,5.0
+TRX-0175,CUST-090,2026-02-14,Surabaya Pusat,Laki-laki,28,KOPI,2,21000,qris,,4.0
+TRX-0176,CUST-095,2026-02-14,Surabaya Barat,Perempuan,,Kopi,1,21000,QRIS,9.9,4.0
+TRX-0177,CUST-016,2026-02-14,Surabaya Timur,Perempuan,16,Non-Kopi,2,54000,QR Code,12.5,4.0
+TRX-0178,CUST-081,2026-02-14,Surabaya Pusat,Laki-laki,28,Kopi,5,122000,E-Wallet,6.5,5.0
+TRX-0179,CUST-094,14/02/2026,Surabaya Pusat,Laki-laki,18,Camilan,1,21000,Tunai,11.1,4.0
+TRX-0180,CUST-085,15/02/2026,Surabaya Pusat,Laki-laki,33,Kopi,4,4500000,QRIS,7.7,4.0
+TRX-0181,CUST-100,2026-02-15,Surabaya Timur,Laki-laki,25,Kopi,2,28000,,10.0,4.0
+TRX-0182,CUST-118,2026-02-15,Surabaya Barat,Perempuan,16,Non Kopi,2,Rp 32.000,Tunai,10.4,3.0
+TRX-0183,CUST-050,15-02-2026,Surabaya Timur,Perempuan,33,Makanan Berat,2,Rp 93.000,QR Code,12.4,3.0
+TRX-0184,CUST-039,15/02/2026,Surabaya Timur,Perempuan,41,Camilan,3,70000,QRIS,6.8,4.0
+TRX-0184,CUST-039,15/02/2026,Surabaya Timur,Perempuan,41,Camilan,3,70000,QRIS,6.8,4.0
+TRX-0185,CUST-039,16 Feb 2026,surabaya pusat,Perempuan,41,Kopi,2,37000,QRIS,10.4,4.0
+TRX-0186,CUST-085,2026-02-16,Surabaya Barat,laki-laki,33,Kopi,2,Rp 20.000,Tunai,7.5,4.0
+TRX-0187,CUST-084,2026-02-17,,Perempuan,27,non-kopi,2,,qris,9.0,5.0
+TRX-0188,CUST-047,2026-02-17,Surabaya Pusat,Laki-laki,27,Non-Kopi,2,51000,Kartu Debit,6.4,4.0
+TRX-0189,CUST-066,17 Feb 2026,Surabaya Timur,Laki-laki,25,Makanan Berat,5,225000,E-Wallet,10.4,3.0
+TRX-0190,CUST-069,2026-02-18,Surabaya Pusat,Perempuan,38,,2,Rp 59.000,Tunai,9.4,4.0
+TRX-0191,CUST-073,18 Feb 2026,,Perempuan,27,non-kopi,2,33000,QRIS,13.5,4.0
+TRX-0192,CUST-043,18 Feb 2026,Surabaya Timur,Perempuan,29,Kopi,2,38000.00,QRIS,7.2,5.0
+TRX-0193,CUST-034,2026-02-18,Surabaya Pusat,Laki-laki,32,Mkn Berat,2,Rp 57.000,TUNAI,8.9,5.0
+TRX-0194,CUST-031,2026-02-18,Surabaya  Barat,Perempuan,26,Non-Kopi,4,51000,QRIS,5.7,5.0
+TRX-0195,CUST-050,18/02/2026,,Perempuan,33,Non-Kopi,60,38000,Debit,10.3,3.0
+TRX-0196,CUST-086,18/02/2026, Surabaya Pusat,Laki-laki,28,Camilan,2,27000,Tunai,5.1,4.0
+TRX-0197,CUST-042,2026-02-19, Surabaya Pusat,Laki-laki,30,Camilan,1,20000.00,QRIS,2.0,4.0
+TRX-0198,CUST-007,2026-02-19,Surabaya Barat,Pria,25,Makanan Berat,4,Rp 133.000,E-Wallet,7.4,
+TRX-0199,CUST-039,19 Feb 2026,,Perempuan,41,Non-Kopi,5,,QRIS,-3.0,4.0
+TRX-0199,CUST-039,19 Feb 2026,,Perempuan,41,Non-Kopi,5,,QRIS,-3.0,4.0
+TRX-0200,CUST-015,19/02/2026,Surabaya Pusat,Perempuan,25,Mkn Berat,3,143000,Tunai,12.9,4.0
+TRX-0201,CUST-062,2026-02-19,Surabaya Pusat,Perempuan,26,Kopi,1,15000,ewallet,5.0,4.0
+TRX-0202,CUST-095,,Surabaya Timur,perempuan,29,Non-Kopi,,70000,E-Wallet,8.2,5.0
+TRX-0203,CUST-004,,surabaya pusat,Laki-laki,22,,2,54000,Kartu Debit,4.6,5.0
+TRX-0204,CUST-047,2026-02-20,Surabaya Pusat,Laki-laki,27,KOPI,1,23000,E-Wallet,5.7,4.0
+TRX-0205,CUST-102,20/02/2026,Surabaya Pusat,Pria,31,Makanan Berat,3,Rp 134.000,Debit,12.3,6.0
+TRX-0206,CUST-040,20 Feb 2026,Surabaya Timur,Laki-laki,31,Makanan Berat,4,Rp 110.000,QRIS,17.2,4.0
+TRX-0207,CUST-104,2026-02-21,Surabaya Timur,Pria,24,,2,51000,QR Code,7.0,4.0
+TRX-0208,CUST-054,2026-02-21,Surabaya Barat,Perempuan,27,Non-Kopi,0,48000,Tunai,9.2,3.0
+TRX-0209,CUST-040,2026-02-21,Surabaya Timur ,laki-laki,31,Kopi,,27000,Kartu Debit,240.0,4.0
+TRX-0210,CUST-092,22-02-2026,Surabaya Timur,Perempuan,33,Kopi,1,10000.00,QRIS,5.6,5.0
+TRX-0211,CUST-031,2026-02-22,Surabaya Timur,Perempuan,26,Kopi,1,21000,E-Wallet,8.4,4.0
+TRX-0211,CUST-031,2026-02-22,Surabaya Timur,Perempuan,26,Kopi,1,21000,E-Wallet,8.4,4.0
+TRX-0212,CUST-071,22 Feb 2026,surabaya pusat,Laki-laki,32,Camilan,1,13000,ewallet,6.9,10.0
+TRX-0213,CUST-097,2026-02-22,Surabaya Pusat,Perempuan,,Kopi ,1,14000,QRIS,9.5,5.0
+TRX-0214,CUST-027,2026-02-23,Surabaya Barat,Perempuan,16,Kopi,3,64000,QR Code,5.1,4.0
+TRX-0215,CUST-063,2026-02-23,Surabaya Timur,Laki-laki,,Kopi,4,139000,E-Wallet,8.2,
+TRX-0216,CUST-042,,Surabaya Pusat,Laki-laki,30,Kopi,1,31000,Tunai,,
+TRX-0217,CUST-025,2026-02-23,Surabaya Pusat,Laki-laki,28,Non-Kopi,1,29000,Cash,13.5,4.0
+TRX-0218,CUST-039,23/02/2026,Surabaya Barat,Perempuan,41,Makanan Berat,1,39000,Tunai,13.2,4.0
+TRX-0219,CUST-032,2026-02-24,Surabaya Timur,,99,camilan,1,18000,E-Wallet,7.8,4.0
+TRX-0220,CUST-046,2026-02-24,Surabaya Barat,Perempuan,34,Cemilan,,41000,Kartu Debit,8.8,4.0
+TRX-0221,CUST-066,2026-02-24,Surabaya Pusat,Laki-laki,25,Camilan,1,20000,Tunai,10.1,4.0
+TRX-0222,CUST-098,2026-02-24,Surabaya  Pusat,Perempuan,28,Non-Kopi,1,19000,Cash,8.1,4.0
+TRX-0223,CUST-013,2026-02-25,Surabaya Pusat,Perempuan,16,Kopi,2,35000,TUNAI,6.1,5.0
+TRX-0224,CUST-052,2026-02-25,SURABAYA BARAT,PEREMPUAN,24,Kopi,1,31000,QRIS,2.3,5.0
+TRX-0225,CUST-067,25/02/2026,Surabaya Timur,Laki-laki,34,Kopi,2,37000,QRIS,7.3,3.0
+TRX-0226,CUST-019,26-02-2026,Surabaya Pusat,Perempuan,2,Kopi,1,10000,E-Wallet,,
+TRX-0227,CUST-052,2026-02-26,Surabaya Barat,Perempuan,24,Makanan Berat,2,40000,Kartu Debit,,4.0
+TRX-0228,CUST-085,26/02/2026,surabaya timur,Laki-laki,33,Camilan,3,40000,QRIS,3.3,5.0
+TRX-0229,CUST-029,2026-02-27,surabaya timur,Laki-laki,40,Non-Kopi,2,25000,QRIS,13.6,4.0
+TRX-0230,CUST-079,27/02/2026,surabaya pusat,Pria,18,Makanan berat,3,122000.00,E-Wallet,95.0,4.0
+TRX-0231,CUST-036,27/02/2026,,Perempuan,37,Makanan Berat,1,27000,E-Wallet,9.7,5.0
+TRX-0232,CUST-098,2026-02-27,Surabaya Pusat,Perempuan,28,Kopi,,18000,Tunai,10.5,5.0
+TRX-0233,CUST-012,27-02-2026,surabaya pusat,Perempuan,24,Makanan Berat,1,47000,E-Wallet,13.5,3.0
+TRX-0234,CUST-062,2026-02-27,Surabaya Timur,Perempuan,26,Kopi,2,46000,QRIS,8.9,4.0
+TRX-0235,CUST-021,28 Feb 2026,Surabaya Barat,Perempuan,29,Makanan Berat,1,Rp 45.000,E-Wallet,8.1,5.0
+TRX-0236,CUST-065,2026-02-28,Surabaya Pusat,Wanita,24,Makanan Berat,4,147000.00,Kartu Debit,12.3,3.0
+TRX-0237,CUST-116,2026-02-28,Surabaya  Barat,Perempuan,34,Non-Kopi,2,31000,E-Wallet,7.5,4.0
+TRX-0238,CUST-050,2026-02-28,Surabaya Pusat,Perempuan,33,Kopi,2,74000,tunai,7.4,4.0
+TRX-0239,CUST-048,28 Feb 2026,Surabaya Pusat,Perempuan,35,Non-Kopi,1,27000,E-Wallet,10.2,4.0
+TRX-0240,CUST-043,2026-02-28, Surabaya Pusat,Perempuan,29,Kopi,2,66000,Tunai,12.4,4.0
